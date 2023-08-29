@@ -1,0 +1,15 @@
+/home/evgen/GeekBrans/c_lesson1dz/task_1/bin/Debug/net7.0/task_1
+/home/evgen/GeekBrans/c_lesson1dz/task_1/bin/Debug/net7.0/task_1.deps.json
+/home/evgen/GeekBrans/c_lesson1dz/task_1/bin/Debug/net7.0/task_1.runtimeconfig.json
+/home/evgen/GeekBrans/c_lesson1dz/task_1/bin/Debug/net7.0/task_1.dll
+/home/evgen/GeekBrans/c_lesson1dz/task_1/bin/Debug/net7.0/task_1.pdb
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.csproj.AssemblyReference.cache
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.AssemblyInfoInputs.cache
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.AssemblyInfo.cs
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.csproj.CoreCompileInputs.cache
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.dll
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/refint/task_1.dll
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.pdb
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/task_1.genruntimeconfig.cache
+/home/evgen/GeekBrans/c_lesson1dz/task_1/obj/Debug/net7.0/ref/task_1.dll
